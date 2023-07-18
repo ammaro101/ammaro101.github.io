@@ -26,21 +26,21 @@
         "description": "I worked on this project in collaboration with a team from different parts of the world where I played a critical part in designing and implementing the website for both the front-end and back-end, using a minimal tech stack of javascript, HTML, CSS, Handlebars.js, mocha, and Bootstrap, the website dynamically generates and displays content for users based on interaction. Followed Agile methodology, object-oriented programming, test-driven development, secure programming, dynamic programming, and programming best practices.",
         "url": "http://www.example.com/project1",
         "github": "https://github.com/ZVlass/InternationalFoodCorner",
-        "image": "/placeholder-700x350.png"
+        "image": "/IFC.png"
       },
       {
 				"title": "Data Portal",
 				"description": "Searched, analyzed, cleaned, and organized a Kaggle dataset into 6NF normalized SQL database tables. Designed and developed a node app using Javascript, HTML, CSS, Bootstrap, Express, mustache, and MySQL. The website front-end centered around dynamically populated selectors that allow users to query the data and answer their questions simply without needing to know programming or SQL.",
 				"url": "http://www.example.com/project2",
         "github": "https://github.com/ammaro101/Data-Portal",
-				"image": "/placeholder-700x350.png"
+				"image": "/DP.png"
 			},
       {
 				"title": "Rocket First Stage Landing Prediction",
 				"description": "Data Science & Machine Learning Project. Where I used (Python, Jupyter Notebook, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, and Dash) to perform data collection, cleaning, analysis, visualization, training ML models, predictions, and accuracy testing, and comparison of different ML algorithms.",
 				"url": "http://www.example.com/project3",
         "github": "https://github.com/ammaro101/IBM-data-science-capstone",
-				"image": "/placeholder-700x350.png"
+				"image": "/RLP.png"
 			}
     ]
   },
