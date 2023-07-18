@@ -24,9 +24,9 @@ const About = () => {
           <div className="mt-6">
             <span>{about.secondary}</span>
           </div>
-          <div className="mt-6 mx-auto md:mx-0 border-2 border-white py-1 px-2 w-36 text-center font-bold">
+          {/* <div className="mt-6 mx-auto md:mx-0 border-2 border-white py-1 px-2 w-36 text-center font-bold">
             <a href={'#'} className="about__resume text-white text-l">View Resume</a>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
