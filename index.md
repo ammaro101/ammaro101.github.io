@@ -1,6 +1,7 @@
 # Welcome to My Portfolio
 
-![Your Name](assets/profile.jfif)
+<img src="assets/profile.jfif" alt="Your Name" width="100" height="100"/>
+
 
 
 ## Projects
