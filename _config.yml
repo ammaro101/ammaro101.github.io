@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 title: My Portfolio
 description: Portfolio of [Your Name]
+custom_css: assets/custom.css
