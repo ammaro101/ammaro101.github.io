@@ -7,3 +7,5 @@
 - Designed a multi-layer RNN classification model with hyperparameter optimization, tailoring each architecture to unique stock data characteristics.
 
 ---
+
+- [Back to Projects](projects.md)
