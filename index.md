@@ -1,5 +1,8 @@
 # Welcome to My Portfolio
 
+![Your Name](assets/profile.jfif)
+
+
 ## Projects
 
 You can view the projects I’ve worked on [here](projects.md).
