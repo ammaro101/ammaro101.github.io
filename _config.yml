@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: My Portfolio
 description: Portfolio of [Your Name]
-bio: "assets/profile.jfif"
+logo: "assets/profile.jfif"
 custom_css: "assets/custom.css"
