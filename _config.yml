@@ -3,3 +3,8 @@ title: My Portfolio
 logo: /assets/profile.jfif
 description: Portfolio of [Your Name]
 custom_css: "assets/custom.css"
+
+social:
+  - name: GitHub
+    icon: fab fa-github
+    url: https://github.com/ammaro101
