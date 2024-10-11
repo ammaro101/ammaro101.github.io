@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: My Portfolio
+logo: /assets/profile.jfif
 description: Portfolio of [Your Name]
-logo: assets/profile.jfif
 custom_css: "assets/custom.css"
