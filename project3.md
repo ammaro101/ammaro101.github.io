@@ -1,6 +1,6 @@
 ## Data Portal (Full Stack JS MySQL Web App)  
 **Date**: June 2023  
-**Link**: [View Project](#)  
+**Link**: [View Project](https://github.com/ammaro101/Data-Portal)  
 
 ### Project Overview  
 The objective of this web application is to empower non-technical users to interact with and query a database, enabling them to extract valuable insights from complex datasets.

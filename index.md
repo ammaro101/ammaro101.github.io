@@ -86,3 +86,18 @@ Feel free to reach out for collaboration, questions, or just to connect!
 ---
 
 Thank you for visiting my portfolio. I'm always open to discussing new opportunities and collaborations!
+
+
+
+<script>
+    window.onbeforeunload = function() {
+        localStorage.setItem('scrollPos', window.scrollY);
+    };
+
+    window.onload = function() {
+        const scrollPos = localStorage.getItem('scrollPos');
+        if (scrollPos) {
+            window.scrollTo(0, scrollPos);
+        }
+    };
+</script>
