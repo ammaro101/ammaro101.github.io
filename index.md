@@ -7,7 +7,17 @@
 
 ---
 
-## Education & Certifications
+[Go to Education](#Education)
+
+[Go to Projects](#Projects)
+
+[Go to Skills](#Skills)
+
+[Go to Contact](#Contact)
+
+---
+
+## Education & Certifications {#Education}
 
 ### BSc in Computer Science, Machine Learning & AI  
 **University of London, UK**  
@@ -29,7 +39,7 @@
 
 ---
 
-## Featured Projects
+## Featured Projects {#Projects}
 
 ### [Deep Learning for Stock Predictions](project1.md)  
 **April 2024 - September 2024**  
@@ -55,7 +65,7 @@ Designed and developed a full-stack web app that enables non-technical users to 
 
 ---
 
-## Skills & Expertise
+## Skills & Expertise {#Skills}
 
 ### Data Analysis & Machine Learning  
 - Python, Pandas, Numpy, Scikit-learn, TensorFlow  
@@ -75,7 +85,7 @@ Designed and developed a full-stack web app that enables non-technical users to 
 
 ---
 
-## Get in Touch
+## Get in Touch {#Contact}
 
 Feel free to reach out for collaboration, questions, or just to connect!
 
