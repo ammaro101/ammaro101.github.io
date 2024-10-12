@@ -7,13 +7,13 @@
 
 ---
 
-[Go to Education](#Education)
+[My Education](#Education)
 
-[Go to Projects](#Projects)
+[My Projects](#Projects)
 
-[Go to Skills](#Skills)
+[My Skills](#Skills)
 
-[Go to Contact](#Contact)
+[Contact Me](#Contact)
 
 ---
 
