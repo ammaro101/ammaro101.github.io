@@ -1,10 +1,31 @@
 <!-- # Welcome to My Portfolio -->
 
-# Amar Allaham
+# <img src="assets/profile.jfif" alt="Your Name" width="100" height="100"/> Amar Allaham
 **Data & Software Engineer**
 
-<img src="assets/profile.jfif" alt="Your Name" width="100" height="100"/>
 👋 Welcome to my personal portfolio! I specialize in developing data-driven solutions through full-stack web applications and advanced machine learning models. With a solid foundation in AI and deep learning, I'm passionate about using technology to solve real-world challenges. Below, you'll find some of my key projects, skills, and experiences that highlight my expertise in the tech world. Let's explore!
+
+---
+
+## Education & Certifications
+
+### BSc in Computer Science, Machine Learning & AI  
+**University of London, UK**  
+*September 2020 - September 2024*
+
+### Business Intelligence Analyst Nanodegree  
+**Udacity**  
+*December 2023 - March 2024*
+
+### Diploma of Linguistics in Chinese Mandarin  
+**Ningxia International Languages College, China**  
+*September 2014 - July 2016*
+
+### Certifications  
+- **IBM AI Engineering**  
+- **Data Science Professional Certificates (IBM & Harvard)**  
+- **Google IT Support Professional**  
+- **Certificates in Data Analysis, Finance, Investment, Communication (Coursera, Edx, Udemy, Udacity)**
 
 ---
 
@@ -51,28 +72,6 @@ Designed and developed a full-stack web app that enables non-technical users to 
 ### Soft Skills  
 - Critical Thinking, Problem Solving, Teamwork  
 - Agile Project Management, Scrum, Continuous Learning
-
----
-
-## Education & Certifications
-
-### BSc in Computer Science, Machine Learning & AI  
-**University of London, UK**  
-*September 2020 - September 2024*
-
-### Business Intelligence Analyst Nanodegree  
-**Udacity**  
-*December 2023 - March 2024*
-
-### Diploma of Linguistics in Chinese Mandarin  
-**Ningxia International Languages College, China**  
-*September 2014 - July 2016*
-
-### Certifications  
-- **IBM AI Engineering**  
-- **Data Science Professional Certificates (IBM & Harvard)**  
-- **Google IT Support Professional**  
-- **Certificates in Data Analysis, Finance, Investment, Communication (Coursera, Edx, Udemy, Udacity)**
 
 ---
 
