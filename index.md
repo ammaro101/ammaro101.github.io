@@ -1,5 +1,3 @@
-<!-- # Welcome to My Portfolio -->
-
 # <img src="assets/linkedin-pic.jpg" alt="profile pic" width="100" height="100"/> Amar Allaham
 **Data & Software Engineer**
 
