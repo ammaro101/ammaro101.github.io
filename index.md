@@ -1,6 +1,6 @@
 <!-- # Welcome to My Portfolio -->
 
-# <img src="assets/profile.jfif" alt="profile pic" width="100" height="100"/> Amar Allaham
+# <img src="assets/linkedin-pic.jpg" alt="profile pic" width="100" height="100"/> Amar Allaham
 **Data & Software Engineer**
 
 👋 Welcome to my personal portfolio! I specialize in developing data-driven solutions through full-stack web applications and advanced machine learning models. With a solid foundation in AI and deep learning, I'm passionate about using technology to solve real-world challenges. Below, you'll find some of my key projects, skills, and experiences that highlight my expertise in the tech world. Let's explore!
