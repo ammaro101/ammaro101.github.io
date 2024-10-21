@@ -87,8 +87,8 @@ Designed and developed a full-stack web app that enables non-technical users to 
 
 Feel free to reach out for collaboration, questions, or just to connect!
 
-📧 **Email:** [amarmr20@outlook.com](mailto:amarmr20@outlook.com)  
-💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/amar-allaham-5364b219b/)  
+📧 **Email:** [amarmr20@outlook.com](mailto:Amar.S20@outlook.com)  
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/amar-allaham/)  
 🖥 **GitHub:** [GitHub Profile](https://github.com/ammaro101)
 
 ---
