@@ -1,7 +1,23 @@
 # <img src="assets/linkedin-pic.jpg" alt="profile pic" width="100" height="100"/> Amar Allaham
 **Data Engineer | Data Analyst**
 
-👋 Welcome to my personal portfolio! I specialize in developing data-driven solutions through full-stack web applications and advanced machine learning models. With a solid foundation in AI and deep learning, I'm passionate about using technology to solve real-world challenges. Below, you'll find some of my key projects, skills, and experiences that highlight my expertise in the tech world. Let's explore!
+Hello World! 
+
+I design and implement scalable data systems that transform business objectives into technical reality. With expertise in data pipelines, cloud architecture, and analytics, I bridge the gap between stakeholder needs and production grade solutions from infrastructure to AI model training and evaluation.
+
+Here’s what I can deliver for your organization:
+
+• End-to-End Data Pipelines: Design automated ETL/ELT workflows (Spark, Airflow) with built-in quality checks (Great Expectations) and access controls (IAM) to ensure data integrity, security, and compliance.
+
+• Requirement Translation: Convert business goals into functional and non-functional technical specifications.
+
+• Cloud Data Architecture: Build cloud solutions optimized for operational excellence, efficiency, security, reliability, and cost-efficiency
+
+• KPI-Driven Development: Instrument data pipelines and dashboards to track key performance metrics and deliver excellent data solutions to stakeholders.
+
+• AI Foundations: Develop and deploy models (Python, tensorflow) with focus on data prep, feature engineering, and model evaluation.
+
+Let’s architect data solutions that align with your business and technical imperatives.
 
 ---
 
