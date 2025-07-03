@@ -1,4 +1,4 @@
-# <img src="assets/linkedin-pic.jpg" alt="profile pic" width="100" height="100"/> Amar Allaham
+# <img src="assets/new_pic.jpg" alt="profile pic" width="100" height="100"/> Amar Allaham
 **Data Engineer | Data Analyst**
 
 Hello World! 
