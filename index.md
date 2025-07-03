@@ -1,7 +1,7 @@
 # <img src="assets/new_pic.jpg" alt="profile pic" width="100" height="100"/> Amar Allaham
 **Data Engineer | Data Analyst**
 
-Hello World! 
+Hello World!
 
 I design and implement scalable data systems that transform business objectives into technical reality. With expertise in data pipelines, cloud architecture, and analytics, I bridge the gap between stakeholder needs and production grade solutions from infrastructure to AI model training and evaluation.
 
@@ -58,6 +58,7 @@ Let’s architect data solutions that align with your business and technical imp
 ### [Deep Learning for Stock Predictions](project1.md)  
 **April 2024 - September 2024**  
 Using cutting-edge deep learning techniques, I developed a model to predict stock prices with up to 56% accuracy. This project involved building a custom library for managing stock data pipelines and designing an RNN classification model optimized for multi-stock predictions.  
+
 **Key Technologies:** Python, TensorFlow, Pandas, RNNs  
 [Learn more](project1.md)
 
@@ -66,6 +67,7 @@ Using cutting-edge deep learning techniques, I developed a model to predict stoc
 ### [Market Analysis Report for National Clothing Chain](project2.md)  
 **March 2024**  
 Created an interactive and visually appealing Power BI dashboard that enabled real-time market analysis for a national clothing chain. My advanced use of DAX and M code provided key insights into market trends and consumer behavior.  
+
 **Key Technologies:** Power BI, DAX, M Code  
 [Learn more](project2.md)
 
@@ -74,8 +76,18 @@ Created an interactive and visually appealing Power BI dashboard that enabled re
 ### [Data Portal (Full Stack Web App)](project3.md)  
 **June 2023**  
 Designed and developed a full-stack web app that enables non-technical users to query complex datasets efficiently. The app featured a user-friendly interface and optimized backend processes for seamless data retrieval.  
+
 **Key Technologies:** JavaScript, Node.js, MySQL, HTML/CSS  
 [Learn more](project3.md)
+
+---
+
+### [Pet Fitness Tracker Dashboard](project4.md)
+**January 2024**
+Developed an interactive business insights KPIs dashboard analyzing smart collar data with Power BI.
+
+**Key Technologies:** Power BI
+[Learn more](project4.md)
 
 ---
 
