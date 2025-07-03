@@ -20,11 +20,11 @@ Build an executive-ready Power BI report to compare smart fitness tracker usage 
 Delivered a 6-page interactive Power BI report used to guide future product direction, integrating advanced slicers, responsive buttons, and storytelling visuals.
 
 
-# <img src="assets/pet_dashboard (1).png" alt="dashboard pic" width="100" height="100"/>
+# <img src="assets/pet_dashboard (1).png" alt="dashboard pic" />
 
-# <img src="assets/pet_dashboard (2).png" alt="dashboard pic" width="100" height="100"/>
+# <img src="assets/pet_dashboard (2).png" alt="dashboard pic" />
 
-# <img src="assets/pet_dashboard (3).png" alt="dashboard pic" width="100" height="100"/>
+# <img src="assets/pet_dashboard (3).png" alt="dashboard pic" />
 ---
 
 - [Home](index.md)
