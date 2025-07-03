@@ -73,6 +73,15 @@ Created an interactive and visually appealing Power BI dashboard that enabled re
 
 ---
 
+### [Pet Fitness Tracker Dashboard](project4.md)
+**January 2024**
+Developed an interactive business insights KPIs dashboard analyzing smart collar data with Power BI.
+
+**Key Technologies:** Power BI
+[Learn more](project4.md)
+
+---
+
 ### [Data Portal (Full Stack Web App)](project3.md)  
 **June 2023**  
 Designed and developed a full-stack web app that enables non-technical users to query complex datasets efficiently. The app featured a user-friendly interface and optimized backend processes for seamless data retrieval.  
@@ -82,14 +91,6 @@ Designed and developed a full-stack web app that enables non-technical users to 
 
 ---
 
-### [Pet Fitness Tracker Dashboard](project4.md)
-**January 2024**
-Developed an interactive business insights KPIs dashboard analyzing smart collar data with Power BI.
-
-**Key Technologies:** Power BI
-[Learn more](project4.md)
-
----
 
 ## Skills & Expertise {#Skills}
 
