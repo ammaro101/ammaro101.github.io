@@ -27,4 +27,6 @@ Delivered a 6-page interactive Power BI report used to guide future product dire
 # <img src="assets/pet_dashboard (3).png" alt="dashboard pic" />
 ---
 
+<iframe title="Employee Hiring and History" width="1140" height="541.25" src="https://app.fabric.microsoft.com/reportEmbed?reportId=6ee04f50-e44e-47d2-b76f-742e969bcda2&autoAuth=true&ctid=6057184c-0e95-43f3-9cff-a9ee73079fb3" frameborder="0" allowFullScreen="true"></iframe>
+
 - [Home](index.md)
