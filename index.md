@@ -53,6 +53,8 @@ Let’s architect data solutions that align with your business and technical imp
 
 ---
 
+## Featured Projects {#Projects}
+
 ### [End-to-End Data Pipeline for Music Streaming Analytics](project5.md)
 **October 2025**  
 Designed a full AWS-based data engineering pipeline using Glue, Redshift, Terraform, and Airflow. Implemented the Medallion Architecture and DBT modeling to deliver real-time music streaming insights.
@@ -70,8 +72,6 @@ Enhanced Microsoft’s Employee Hiring History report with new retention, divers
 [Learn more](project6.md)
 
 ---
-
-## Featured Projects {#Projects}
 
 ### [Deep Learning for Stock Predictions](project1.md)  
 **April 2024 - September 2024**  
