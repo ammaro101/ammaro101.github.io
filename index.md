@@ -57,7 +57,7 @@ Let’s architect data solutions that align with your business and technical imp
 **October 2025**  
 Designed a full AWS-based data engineering pipeline using Glue, Redshift, Terraform, and Airflow. Implemented the Medallion Architecture and DBT modeling to deliver real-time music streaming insights.
 
-**Key Technologies:** AWS Glue, Redshift, Terraform, Airflow, DBT, Star Schema  
+**Key Technologies:** AWS Glue, Redshift, Terraform, Airflow, DBT.
 [Learn more](project5.md)
 
 ---
