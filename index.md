@@ -33,23 +33,41 @@ Let’s architect data solutions that align with your business and technical imp
 
 ## Education & Certifications {#Education}
 
-### BSc in Computer Science, Machine Learning & AI  
-**University of London, UK**  
-*September 2020 - September 2024*
+### BSc in Computer Science
+**University of London, UK**
+*October 2020 - November 2024*
 
-### Business Intelligence Analyst Nanodegree  
-**Udacity**  
-*December 2023 - March 2024*
-
-### Diploma of Linguistics in Chinese Mandarin  
-**Ningxia International Languages College, China**  
+### Certificate in Chinese Linguistics (Two-Year Program)
+**Ningxia International Languages College, China**
 *September 2014 - July 2016*
 
-### Certifications  
-- **IBM AI Engineering**  
-- **Data Science Professional Certificates (IBM & Harvard)**  
-- **Google IT Support Professional**  
+### Certifications
+- **Microsoft Certified Power BI Data Analyst (PL-300)**
+- **Microsoft Certified Fabric Data Analytics Engineer (DP-600)**
+- **DeepLearning.AI & AWS Data Engineering Professional Certificate Program**
+- **Udacity Nanodegree in Power BI Data Analysis and Visualization**
+- **IBM AI Engineering with Python, PyTorch & TensorFlow Professional Certificate Program**
+- **Data Science Professional Program**
+- **Google IT Support Professional**
 - **Certificates in Data Analysis, Finance, Investment, Communication (Coursera, Edx, Udemy, Udacity)**
+
+---
+
+### [End-to-End Data Pipeline for Music Streaming Analytics](project5.md)
+**October 2025**  
+Designed a full AWS-based data engineering pipeline using Glue, Redshift, Terraform, and Airflow. Implemented the Medallion Architecture and DBT modeling to deliver real-time music streaming insights.
+
+**Key Technologies:** AWS Glue, Redshift, Terraform, Airflow, DBT, Star Schema  
+[Learn more](project5.md)
+
+---
+
+### [Employee Hiring Insights Dashboard](project6.md)
+**August 2025**  
+Enhanced Microsoft’s Employee Hiring History report with new retention, diversity, and predictive hiring analytics using Power BI and DAX. Published on Microsoft Fabric for real-time interactive insights.
+
+**Key Technologies:** Power BI, DAX, Microsoft Fabric  
+[Learn more](project6.md)
 
 ---
 
